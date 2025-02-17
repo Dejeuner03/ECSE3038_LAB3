@@ -19,6 +19,6 @@ Deletes a tank by id. Returns 204 No Content on success.
 
 Two Truths and a lie 
 
--I've been sick all weekend 
+- I've been sick all weekend 
 - Cats are my favourite animals
 - I'm obssesed with sims4 
