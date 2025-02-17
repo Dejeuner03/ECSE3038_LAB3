@@ -15,8 +15,11 @@ Returns a single tank by id. If not found, returns 404 Not Found.
 3. POST /tank
 Creates a new tank with a unique id. Returns the created tank.
 
-. DELETE /tank/{id}
+ 4. DELETE /tank/{id}
 Deletes a tank by id. Returns 204 No Content on success.
+
+5. Patch /tank/{id}
+Updates a tank's attribute
 
 Two Truths and a lie 
 
