@@ -1,5 +1,6 @@
 Overview
-This project is a RESTful API server for managing IoT-enabled water tanks. It supports CRUD operations (Create, Read, Update, Delete) for Tank resources.
+Student were tasked to create a RESTful API server using Get, Post, Delete, and Patch request Handlers
+
 
 Purpose
 This code was written for the ECSE3038 course assignment to design and implement a RESTful API server.
